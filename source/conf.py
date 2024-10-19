@@ -28,6 +28,20 @@ language = 'zh_CN'
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
 html_theme = 'sphinx_rtd_theme'
+html_theme_ option = {
+    'logo_only': True,
+    'display_version': True,
+    'prev_next_buttons_location': 'bottom',
+    'style_external_links': False,
+    'collapse_navigation': True,
+    'sticky_navigation': True,
+    'navigation_depth': 4,
+    'includehidden': True,
+    'titles_only': False
+}
 html_static_path = ['_static']
 html_search_language = 'zh'
 html_favicon = "https://toads-docs.readthedocs.io/zh-cn/latest/_img/favicon.ico"
+html_logo = "_img/logo.pngshtml_js_files = [
+    'ready.js',
+]
