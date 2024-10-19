@@ -15,6 +15,7 @@ Toads-docs 目录
    
    myfriend/index
    myfriend/zhanghao
+   myfriend/lizheting
 
 Toads-docs 索引页面
 ===================
