@@ -28,7 +28,7 @@ language = 'zh_CN'
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
 html_theme = 'sphinx_rtd_theme'
-html_theme_ option = {
+html_theme_option = {
     'logo_only': True,
     'display_version': True,
     'prev_next_buttons_location': 'bottom',
