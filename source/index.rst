@@ -8,15 +8,18 @@ Toads-docs 目录
    welcome
    toad114
    changlog
-   
+
+.. toctree::
+   :maxdepth: 2  
    :caption: myfriend:
+   
    myfriend/index
    myfriend/zhanghao
 
 Toads-docs 索引页面
 ===================
 上面为本文档的目录，可以点击其中一个查看。
-刚访问的老野们，建议先访问**Welcome**页面再去查看其他文档
+刚访问的老野们，建议先访问Welcome页面再去查看其他文档
 下面为本文档的索引
 
 * :ref:`genindex`
