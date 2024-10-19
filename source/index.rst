@@ -1,9 +1,17 @@
+Toads-docs 目录
+================
+
 .. toctree::
    :maxdepth: 2
-   :caption: toads-docs 目录:
+   :caption: toads-docs-main:
    
    welcome
    toad114
+   changlog
+   
+   :caption: myfriend:
+   myfriend/index
+   myfriend/zhanghao
 
 Toads-docs 索引页面
 ===================

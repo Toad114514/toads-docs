@@ -30,3 +30,4 @@ language = 'zh_CN'
 html_theme = 'sphinx_rtd_theme'
 html_static_path = ['_static']
 html_search_language = 'zh'
+html_favicon = "https://toads-docs.readthedocs.io/zh-cn/latest/_img/favicon.ico"
