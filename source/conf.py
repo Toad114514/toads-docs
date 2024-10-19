@@ -42,6 +42,4 @@ html_theme_ option = {
 html_static_path = ['_static']
 html_search_language = 'zh'
 html_favicon = "https://toads-docs.readthedocs.io/zh-cn/latest/_img/favicon.ico"
-html_logo = "_img/logo.pngshtml_js_files = [
-    'ready.js',
-]
+html_logo = "_img/logos.png"
