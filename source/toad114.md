@@ -1,5 +1,5 @@
 # 关于我自己
-![toad的头像](https://toads-docs.readthedocs.io/_static/img/toad.jpg)
+![toad的头像](https://toads-docs.readthedocs.io/img/toad.jpg)
  - 2010/9/20 出生
  - 13岁被先辈撅的屑奇诺比奥
  - 高 164 cm，重 60 千克，BMI指数正常
@@ -11,8 +11,8 @@
  - 地理曾进步 800 名
  - 拥有一台本地工具类服务器，含社区、云服务等
  - 拥有一台 我的世界基岩版1.20.51版本服务器 ，基于termux+ubuntu22.04.3LTS+box64
- - 本人termux：![termux](https://toads-docs.readthedocs.io/_static/img/termux.jpg)
- - 本人主力机：![phone](https://toads-docs.readthedocs.io/_static/img/phone.jpg)
+ - 本人termux：![termux](https://toads-docs.readthedocs.io/img/termux.jpg)
+ - 本人主力机：![phone](https://toads-docs.readthedocs.io/img/phone.jpg)
 # 详细信息
 一个普通的初二茂名高州佬，Python+前端牢底，玩Minecraft、元气骑士和马里奥，喜欢听歌（尤其是Barzil Funk），快影+NV的剪辑牢底，常剪高级魔怔视频以及模拟恐怖。  
 自己有较好的信息技术（2017-2019年玩过电脑），于是2023前后，搞了一个博客、还有一个自己在 Read The Docs 托管的文档，搞了一个GitHub的账号和一些维护的仓库（例如Staxle），自己还手搓过我的世界基岩版的材质包（22年开工）。  
