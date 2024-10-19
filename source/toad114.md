@@ -1,5 +1,5 @@
 # 关于我自己
-![toad的头像](https://toads-docs.readthedocs.io/img/toad.jpg)
+![toad的头像](img/toad.jpg)
  - 2010/9/20 出生
  - 13岁被先辈撅的屑奇诺比奥
  - 高 164 cm，重 60 千克，BMI指数正常
