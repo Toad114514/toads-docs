@@ -1,4 +1,4 @@
-recommonmark
+myst_parser
+sphinxcontrib.mermaid
 sphinx_rtd_theme
-sphinx_markdown_tables
 jieba

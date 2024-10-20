@@ -15,12 +15,27 @@ release = 'v0.114'
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
 extensions = [
-  "recommonmark",
-  "sphinx_markdown_tables"
+  'myst_parser',
+  "sphinxcontrib.mermaid",
 ]
 
 templates_path = ['_templates']
 exclude_patterns = []
+
+source_parsers = {
+    '.md': 'recommonmark.parser.CommonMarkParser',
+}
+
+myst_enable_extensions = [
+    "tasklist",
+    "deflist",
+    "dollarmath",
+]
+
+source_suffix = {
+    '.rst': 'restructuredtext',
+    '.md': 'markdown'
+}
 
 language = 'zh_CN'
 
