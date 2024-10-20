@@ -55,7 +55,7 @@ vim 共分为三种模式，**命令模式（Command Mode）、输入模式（In
 没时间写了我周日要回学校晚自修
 ### 工作模式图
 一目了然（本工作图取自菜鸟教程，但是所示的版本过老了，没提到可视模式）
-[vi/vim 工作模式](https://www.runoob.com/wp-content/uploads/2014/07/vim-vi-workmodel.png)
+![vi/vim 工作模式](https://www.runoob.com/wp-content/uploads/2014/07/vim-vi-workmodel.png)
 ## 实例
 先执行命令，\<文件名\>的内容可以随便写一个文件名
 ```bash
