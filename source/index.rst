@@ -7,7 +7,6 @@ Toads-docs 目录
    
    welcome
    toad114
-   changlog
 
 .. toctree::
    :maxdepth: 2  
@@ -16,6 +15,17 @@ Toads-docs 目录
    myfriend/index
    myfriend/zhanghao
    myfriend/lizheting
+
+.. toctree::
+   :maxdepth: 2
+   :caption: termux:
+   
+   termux/index
+   termux/install
+   termux/start
+   termux/basic
+   termux/config
+   termux/oh-my-zsh
 
 Toads-docs 索引页面
 ===================
