@@ -24,8 +24,10 @@ Toads-docs 目录
    termux/install
    termux/start
    termux/basic
+   termux/command
    termux/config
    termux/oh-my-zsh
+   termux/vim
 
 Toads-docs 索引页面
 ===================
