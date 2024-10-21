@@ -1,13 +1,13 @@
 # oh-my-zsh in termux
 本页面更新于 2024/10/20，部分内容移动于博客文章做了部分修改  
-给你的终端美化一波，包靓的孩子  
+给你的终端美化一波，包靓的孩子
 ## 安装
-**脚本项目地址：**[https://github.com/Cabbagec/termux-ohmyzsh/](https://github.com/Cabbagec/termux-ohmyzsh/)
+**脚本项目地址：**[https://github.com/Cabbagec/termux-ohmyzsh/](https://github.com/Cabbagec/termux-ohmyzsh/) ![GitHub Repo stars](https://img.shields.io/github/stars/Cabbagec/termux-ohmyzsh)
 脚本使用了`zsh`替换原`bash`作为默认shell，支持替换字体、主题和添加插件
 ```bash
 sh -c "$(curl -fsSL https://github.com/Cabbagec/termux-ohmyzsh/raw/master/install.sh)"
 ```
-某些low炮用不了，爆出来个`port 443: Connection refused`网络超时，可以用国光迁移到国内的地址：
+`port 443: Connection refused`情况下，请使用用国光迁移到国内的脚本地址：
 ```bash
 sh -c "$(curl -fsSL https://html.sqlsec.com/termux-install.sh)"
 ```

@@ -70,8 +70,8 @@ vim 共分为三种模式，**命令模式（Command Mode）、输入模式（In
 ```bash
 vim <文件名>
 ```
-然后进入到vim，是命令模式。此时输入`i`进入输入模式来写文本了，这时候你可以通过上方的步骤去进行一些操作。  
+然后进入到vim，是命令模式。这时候你可以通过上方的步骤去进行一些操作，例如输入`i`进入输入模式来写文字。 
 写完了之后，按下`ESC`回到命令模式，并输入`:wq`保存并退出，该文件就保存好了
 ## 参考
-[Linux vi/vim - 菜鸟教程](https://www.runoob.com/linux/linux-vim.html)
+[Linux vi/vim - 菜鸟教程](https://www.runoob.com/linux/linux-vim.html)  
 [VIM学习笔记 可视化模式 (Visual Mode) - 知乎](https://zhuanlan.zhihu.com/p/58513837)
