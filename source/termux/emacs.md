@@ -1,4 +1,4 @@
-# Emasc in termux
+# Emacs in termux
 Emacs，一个神的编辑器，上手难度大但却又很nb
 - 代码高亮、代码补全、实时语法检测等基础编程功能
 - 将快捷键运用到极致，无论什么时都可以通过快捷键解决，高效工作
@@ -22,7 +22,7 @@ emacs
 Emacs 中有五个功能键： `Control`、 `Meta`、 `Shift`、 `Super`、 `Hyper`。其中部分名称是几十年前的键盘上的按键名称，其中的 Hyper 键更是在现代键盘上消失了。其他的按键例如 Meta 对应于 PC 键盘上的 Alt 键，Control 对应 Ctrl 键，Super 对应 PC 键盘上的 Win 键 (Termux 中需要借助输入法使用 Super 键)。  
  同时，我们需要随时随地修改快捷键，需要有一种方式来表达快捷键，以便修改配置文件。见下表（下文快捷键以 `Emacs快捷键缩写-字母` 格式表示，例如`C-a`表达的是`Control+a`）：
 | Emacs 快捷键 | 缩写 | 对应键盘按键 |
-| --- | --- |
+| --- | --- | --- |
 | Control | C | Ctrl (音量加) |
 | Meta | M | Alt |
 | Shift | S | Shift |
