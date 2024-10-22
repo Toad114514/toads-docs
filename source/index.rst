@@ -29,6 +29,7 @@ Toads-docs 目录
    termux/oh-my-zsh
    termux/vim
    termux/emacs
+   termux/c
 
 Toads-docs 索引页面
 ===================
