@@ -1,5 +1,5 @@
 # Xianbei Res
-![XianbeiRes t2.7](https://toads-docs.readthedocs.io/zh-CN/latest/_img/xianbei/t2.7.png)
+![XianbeiRes t2.7](https://toads-docs.readthedocs.io/zh-CN/latest/_img/xianbei/t2.7.jpg)
 <div align="center"><img src="https://img.shields.io/github/stars/Toad114514/xbres.svg"><a href="https://github.com/Toad114514/xbres/status"/></img>
 <img src="https://img.shields.io/github/forks/Toad114514/xbres.svg"/>
 <img src="https://img.shields.io/github/issues/Toad114514/xbres.svg"/>
