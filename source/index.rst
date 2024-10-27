@@ -10,6 +10,7 @@ Toads-docs
    
    welcome
    toad114
+   xianbei
 
 .. toctree::
    :maxdepth: 2  
