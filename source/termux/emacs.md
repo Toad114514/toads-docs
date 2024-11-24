@@ -18,7 +18,7 @@ emacs
 ```
 直接输入便可进入到Emacs编辑器，在其命令之后接上文件名可以打开文件  
 第一次启动时将见到初始页面，主要是Emacs的一些教程  
-![Emacs 教程](_img/emacs-setup.jpg)
+![Emacs 教程](../_img/termux/emacs-setup.jpg)
 ## 快捷键
 Emacs 中有五个功能键： `Control`、 `Meta`、 `Shift`、 `Super`、 `Hyper`。其中部分名称是几十年前的键盘上的按键名称，其中的 Hyper 键更是在现代键盘上消失了。其他的按键例如 Meta 对应于 PC 键盘上的 Alt 键，Control 对应 Ctrl 键，Super 对应 PC 键盘上的 Win 键 (Termux 中需要借助输入法使用 Super 键)。  
  同时，我们需要随时随地修改快捷键，需要有一种方式来表达快捷键，以便修改配置文件。见下表（下文快捷键以 `Emacs快捷键缩写-字母` 格式表示，例如`C-a`表达的是`Control+a`）：
