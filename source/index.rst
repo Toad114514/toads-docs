@@ -14,6 +14,12 @@ Toads-docs
 
 .. toctree::
    :maxdepth: 2  
+   :caption: repos:
+   repos/xianbei
+   repos/staxle
+
+.. toctree::
+   :maxdepth: 2  
    :caption: myfriend:
    
    myfriend/index
