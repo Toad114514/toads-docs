@@ -9,7 +9,7 @@
 project = 'toads-docs'
 copyright = '2024, Toad114514'
 author = 'Toad114514'
-release = 'v0.114'
+release = 'v0.114.3'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
