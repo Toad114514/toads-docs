@@ -7,7 +7,7 @@ Toads-docs
 
 本文档提供了EPUB格式的下载（在右下角的Read The Docs图标）
 
-从 `` 提交后，之后的文档书写将采用 reST 语法书写文档，且之前书写的 Markdown 文档也将逐渐使用 reST 语法
+从提交 ``7b332743`` 后，之后的文档书写将采用 reST 语法书写文档，且之前书写的 Markdown 文档也将逐渐使用 reST 语法
 
 .. toctree::
    :maxdepth: 2
