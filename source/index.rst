@@ -1,8 +1,13 @@
-Toads-docs 
-================
-一个初二佬的Read The Docs文档，主要写一些部分东西的文档完善与整合，作为个人维护的文档库来使用。本文档库目前会持续更新。  
-值得一提的是，本文档的 Sphinx 本地环境其实是在 `Termux 0.118.1` 的情况下实现的（宿环境为Oppo A5战神机，Android8.1(ColorOS 5.0)。这又给了Termux可折腾的空间  
+==========
+Toads-docs
+==========
+一个初二佬的Read The Docs文档，主要写一些部分东西的文档完善与整合，作为个人/公共维护和查询的文档库来使用。本文档库目前会持续更新。
+
+值得一提的是，本文档的 Sphinx 本地环境其实是在 `Termux 0.118.1` 的情况下实现的（宿环境为Oppo A5战神机，Android8.1(ColorOS 5.0)。这又给了Termux可折腾的空间
+
 本文档提供了EPUB格式的下载（在右下角的Read The Docs图标）
+
+从 `` 提交后，之后的文档书写将采用 reST 语法书写文档，且之前书写的 Markdown 文档也将逐渐使用 reST 语法
 
 .. toctree::
    :maxdepth: 2
@@ -29,6 +34,14 @@ Toads-docs
 
 .. toctree::
    :maxdepth: 2
+   :caption: rst:
+   
+   rst/index
+   rst/basic
+   rst/command
+
+.. toctree::
+   :maxdepth: 2
    :caption: termux:
    
    termux/index
@@ -47,7 +60,7 @@ Toads-docs
    termux/x11
 
 Toads-docs 索引页面
-===================
+===============
 上面为本文档的目录，可以点击其中一个查看。
 刚访问的老野们，建议先访问Welcome页面再去查看其他文档
 下面为本文档的索引
