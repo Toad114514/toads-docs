@@ -66,7 +66,6 @@ html_theme_option = {
     # 'titles_only': False
 # }
 
-html_title = "Toads-Docs"
 html_static_path = ['_static']
 html_search_language = 'zh'
 html_favicon = "https://toads-docs.readthedocs.io/zh-cn/latest/_img/favicon.ico"
