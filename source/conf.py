@@ -7,9 +7,9 @@
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 project = 'toads-docs'
-copyright = '2024, Toad114514'
+copyright = '2024, Docs By Toad114514'
 author = 'Toad114514'
-release = 'v0.114.3'
+release = 'v0.114.5'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
@@ -42,18 +42,31 @@ language = 'zh_CN'
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
-html_theme = 'sphinx_rtd_theme'
+html_theme = 'sphinx_book_theme'
+# New Book theme config
 html_theme_option = {
-    'logo_only': True,
-    'display_version': True,
-    'prev_next_buttons_location': 'bottom',
-    'style_external_links': False,
-    'collapse_navigation': True,
-    'sticky_navigation': True,
-    'navigation_depth': 4,
-    'includehidden': True,
-    'titles_only': False
+    "repository_url": "https://github.com/toad114514/toads-docs",
+    "use_repository_button": True,
+    "home_page_in_toc": True,
+    "use_download_button": True,
+    "use_fullscreen_button": True,
+    "use_issues_button": True,
 }
+
+# readthedocs config
+# html_theme_option = {
+    # 'logo_only': True,
+    # 'display_version': True,
+    # 'prev_next_buttons_location': 'bottom',
+    # 'style_external_links': False,
+    # 'collapse_navigation': True,
+    # 'sticky_navigation': True,
+    # 'navigation_depth': 4,
+    # 'includehidden': True,
+    # 'titles_only': False
+# }
+
+html_title = "Toads-Docs"
 html_static_path = ['_static']
 html_search_language = 'zh'
 html_favicon = "https://toads-docs.readthedocs.io/zh-cn/latest/_img/favicon.ico"

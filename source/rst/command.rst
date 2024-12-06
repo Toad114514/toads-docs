@@ -7,7 +7,7 @@ reST 常用命令
 -------------
 任何满足：
 
-.. code-block:: txt
+.. code-block::
 
     .. <type>:: <block>
 

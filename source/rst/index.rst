@@ -10,3 +10,5 @@ reStructuredText 是扩展名为 .rst 的纯文本文件，含义为”重新构
 .rst 文件是轻量级标记语言的一种，被设计为容易阅读和编写的纯文本，并且可以借助 Docutils 这样的程序进行文档处理，也可以转换为 HTML 或 PDF 等多种格式，或由 Sphinx-Doc 这样的程序转换为 LaTex、man 等更多格式。
 
 如果你熟练 *Markdown* ，那么上手reST将更加简单。
+
+本文档组同时也拥有 *Sphinx 构建* 和 *Read The Docs托管*，这些也可以帮助你更好的了解 reST

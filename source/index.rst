@@ -39,6 +39,7 @@ Toads-docs
    rst/index
    rst/basic
    rst/command
+   rst/sphinx
 
 .. toctree::
    :maxdepth: 2
