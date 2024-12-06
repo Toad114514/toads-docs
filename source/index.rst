@@ -11,22 +11,21 @@ Toads-docs
 
 .. toctree::
    :maxdepth: 2
-   :caption: toads-docs-main:
+   :caption: toads-docs-main
    
    welcome
    toad114
-   xianbei
 
 .. toctree::
    :maxdepth: 2  
-   :caption: repos:
+   :caption: repos
    
    repos/xianbei
    repos/staxle
 
 .. toctree::
    :maxdepth: 2  
-   :caption: myfriend:
+   :caption: myfriend
    
    myfriend/index
    myfriend/zhanghao
@@ -34,16 +33,17 @@ Toads-docs
 
 .. toctree::
    :maxdepth: 2
-   :caption: rst:
+   :caption: rst
    
    rst/index
    rst/basic
    rst/command
    rst/sphinx
+   rst/rtd
 
 .. toctree::
    :maxdepth: 2
-   :caption: termux:
+   :caption: termux
    
    termux/index
    termux/install

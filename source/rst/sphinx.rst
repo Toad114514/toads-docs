@@ -193,3 +193,19 @@ Sphinx 是一个基于 Python 的文档写作程序，经过不断完善，目�
 .. warning:: Termux 运行该命令会出错！
 
 执行后，便可通过浏览器访问 ``http://127.0.0.1:8000`` 查看构建后的文档。
+
+toctree
+--------------
+在 ``index.rst`` 文件中，包含有 toctree 的内容，如下：
+
+.. code-block:: rst
+
+    .. toctree::
+        :maxdepth: 2
+        
+        hello
+        hello/index
+
+该 toctree 命令仅 Sphinx 可用。用于渲染目录树，同时也会添加到左边的目录栏以展示。一般情况下，要想访问文档内的文档，都需要在 ``index.rst`` 中设置超链接。
+
+添加一个文件到 toctree，只需要在其命令 content 中输入其文件的名字，无需输入后缀名。如果存放于文件夹内，例如想要将 ``./hello/index.md`` 文件添加到 toctree，那么只需输入 hello/index 即可（相对目录，以 ``index.rst`` 为起始）。
